@@ -30,6 +30,7 @@ main {
 nav {
     background-color: beige;
     padding: 10px;
+    width: 100%;
 }
 
 nav ul {
@@ -83,4 +84,10 @@ td,
 th {
     border: 1px solid black;
     padding: 5px;
+}
+#locations{
+    list-style: none;
+}
+.fa fa-phone{
+    font-size: 24px;
 }
